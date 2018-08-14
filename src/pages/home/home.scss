@@ -1,0 +1,97 @@
+page-home {
+    h2{
+        text-align: center;
+        color:white;
+ 
+    }
+    .back{
+        background-color:olivedrab;
+    }
+ ion-item#item{
+     background-color:rgb(85, 107, 47);
+ }
+
+// }
+ion-content{
+    p{
+        text-align: center;
+        color:white
+    }
+}
+ion-item#it{
+    background-color:rgb(85, 107, 47);
+    width:40%;
+}
+   
+ion-item#ip{
+    background-color:rgb(85, 107, 47);
+    width:40%;
+    
+}
+ion-input{
+    width: 10%;
+}
+.item{
+    display:flex;
+    border-radius: 15;
+    width: 85%;
+    margin-left: 10%;
+}
+.icon{
+   
+    background-color: rgba(41, 41, 40, 0.486);
+    padding: 8px;
+    margin-right:41px;
+    width: 50px;
+  
+
+}
+
+ion-item#pp{
+    background-color: rgba(41, 41, 40, 0.486);
+    text-align: center;
+    color: white;
+   
+}
+ion-item#sk{
+    background-color:rgba(0,0,0, 0.5);
+    // text-align: center;
+    color:white;
+
+}
+ion-item#bp{
+    background-color:rgb(85, 107, 47);
+    text-align: center;
+    color: white;
+}
+ion-item#tt{
+    background-color:rgb(85, 107, 47);
+    text-align: center;
+    color: white;
+}
+ion-item#uu{
+    background-color:rgb(85, 107, 47);
+    text-align: center;
+    color: white;
+}
+
+ion-icon{
+    font-size: 45px
+}
+
+.item.item-block.item-ios.item-input{
+    padding: 0;
+}
+.ion-label{
+    margin: 0%;
+}
+
+  
+    
+}
+
+
+
+
+
+
